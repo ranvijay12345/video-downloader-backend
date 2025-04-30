@@ -1,0 +1,30 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.facebook.com	TRUE	/	TRUE	1753624332	datr	Atd2ZmC4Vg3jA6hZ6ypglAME
+.facebook.com	TRUE	/	TRUE	1757306418	ps_l	1
+.facebook.com	TRUE	/	TRUE	1757306418	ps_n	1
+.facebook.com	TRUE	/	TRUE	1773132137	sb	xTW0ZlN7WCpjeDoWJgNRJSo9
+.facebook.com	TRUE	/	TRUE	1777658891	c_user	100025575785813
+.facebook.com	TRUE	/	TRUE	1746725288	dpr	1.25
+.facebook.com	TRUE	/	TRUE	1746725288	wd	1536x695
+.facebook.com	TRUE	/	TRUE	0	ar_debug	1
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1746120489396%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1753898891	fr	1vWq2Yo0aUojtL9fM.AWceZmoBN5Bj4ObaPXBo9ShhZALv6WI7aQcNreQVcsc3-OrQBoo.BoE7iL..AAA.0.0.BoE7iL.AWfop_1W8W_fBWN_9CCUwJw4Zu0
+.facebook.com	TRUE	/	TRUE	1777658891	xs	40%3AyzxxdV1829pnBQ%3A2%3A1738572136%3A-1%3A4729%3A%3AAcVXSclIFpn9rtsUgo8xWYsTS1jqAPOPZ_m4odmxNuc
+.instagram.com	TRUE	/	TRUE	1754665870	ps_n	1
+.instagram.com	TRUE	/	TRUE	1754665870	ps_l	1
+.instagram.com	TRUE	/	TRUE	1751641918	ig_did	0651D330-3F34-427B-A66D-070A2799B20F
+.instagram.com	TRUE	/	TRUE	1751641878	ig_nrcb	1
+.instagram.com	TRUE	/	TRUE	1754665881	datr	jruGZhtUtN-1dt--MiWk_L9S
+.www.instagram.com	TRUE	/	TRUE	1757357327	igd_ls	%7B%2217849935250701665%22%3A%7B%22c%22%3A%7B%221%22%3A%22HCwAABasBxbc0NatCxMFFsL1jZ79mrU_AA%22%7D%2C%22d%22%3A%223eb752ea-2cc1-40f4-8922-c88f7b2c1fc0%22%2C%22s%22%3A%220%22%2C%22u%22%3A%220bz15f%22%7D%7D
+.instagram.com	TRUE	/	TRUE	1756667129	fbm_124024574287414	base_domain=.instagram.com
+.instagram.com	TRUE	/	TRUE	1753898939	ds_user_id	51050629664
+.instagram.com	TRUE	/	TRUE	1746727734	dpr	1.25
+.instagram.com	TRUE	/	TRUE	1780682939	csrftoken	4yBAAR6mdhJPoHaZ7Kqy3XDEBJi4CB8L
+.instagram.com	TRUE	/	TRUE	1780212885	mid	aAyMlQALAAGGl7dnt0iD9E73VOO9
+.instagram.com	TRUE	/	TRUE	1746643705	ig_direct_region_hint	"RVA\05451050629664\0541777574904:01f724296590e65f331f98057fb7e804330d9677a2095a2c4423cca53679dc92f9f0ad36"
+.instagram.com	TRUE	/	TRUE	1746727734	wd	1536x695
+.instagram.com	TRUE	/	TRUE	1777658935	sessionid	51050629664%3A2rspMYPtaFYv8d%3A6%3AAYdE2D2AFvQJH5qhY3ZIflpDAnmOpAUzr_RnHFXH8kE
+.instagram.com	TRUE	/	TRUE	0	rur	"RVA\05451050629664\0541777658939:01f7783c1cac9d885c5b118305ac1e8899e1f05c7392461ed2ba21d03ae912b57e2b8d20"
